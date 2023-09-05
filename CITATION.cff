@@ -1,0 +1,8 @@
+cff-version: 1.0.0
+message: "Code created in pursue of my PHD thesis."
+authors:
+  - family-names: Durchholz
+    given-names: Tobias
+title: "My Research Software"
+version: 1.0.0
+date-released: 2023-09-06
