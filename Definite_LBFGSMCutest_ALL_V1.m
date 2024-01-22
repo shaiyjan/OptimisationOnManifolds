@@ -621,7 +621,7 @@ for i=1:dim
        end
     end
     for s=1:m
-       dRR(s,s)=A(s,s)/2; 
+       dRR(s,s)=A(s,s)/2;  %Remark 22.01.2024: There might be no /2 here
     end
     dOm=A-dRR;
     dQ=Q0*dOm+QP*dK;
